@@ -47,9 +47,9 @@
 </picture>
 
 <p align="center">
-	<img width="100%" src="https://raw.githubusercontent.com/A2105s/A2105s/main/github-metrics.svg" alt="Metrics" />
+	<img width="82%" src="https://raw.githubusercontent.com/A2105s/A2105s/main/github-metrics.svg" alt="Metrics" />
 </p>
 
 <p align="center">
-	<img width="100%" src="https://raw.githubusercontent.com/A2105s/A2105s/main/metrics-achievements.svg" alt="Metrics Achievements" />
+	<img width="72%" src="https://raw.githubusercontent.com/A2105s/A2105s/main/metrics-achievements.svg" alt="Metrics Achievements" />
 </p>
