@@ -36,7 +36,7 @@
 ## GITHUB STATS
 
 <p align="center">
-	<img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=A2105s&hide_border=true" alt="GitHub Streak Stats" />
+	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=A2105s&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <picture>
@@ -46,9 +46,9 @@
 </picture>
 
 <p align="center">
-	<img width="91%" src="https://raw.githubusercontent.com/A2105s/A2105s/main/github-metrics.svg" alt="Metrics" />
+	<img width="100%" src="https://raw.githubusercontent.com/A2105s/A2105s/main/github-metrics.svg" alt="Metrics" />
 </p>
 
 <p align="center">
-	<img width="91%" src="https://github-profile-trophy.vercel.app/?username=A2105s&theme=onestar&no-frame=true&row=1&column=6" alt="GitHub Achievements" />
+	<img width="100%" src="https://github-profile-trophy.vercel.app/?username=A2105s&theme=onestar&no-frame=true&row=1&column=4" alt="GitHub Achievements" />
 </p>
