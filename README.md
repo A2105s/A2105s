@@ -15,8 +15,6 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/)
 
-[![Adarsh's YouTube stats](https://youtube-stats-card.vercel.app/api?channelid=UCxxxxxxxxxxxxxxxxxxxxxx)](https://www.youtube.com/@yourchannel)
-
 ## TECH STACK:
 | Domain | Tools |
 |------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -35,19 +33,23 @@
 | Version Control | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 | Operating Systems | ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
 
-<div align="center" style="display: flex; gap: 20px;">
-	<img src="https://github-readme-stats.vercel.app/api?username=A2105s&show_icons=true&locale=en" alt="GitHub Stats" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=A2105s" alt="GitHub Streak Stats" />
-</div>
+## GITHUB STATS
+
+<p align="center">
+	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=A2105s&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" />
+	<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=A2105s&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A2105s/A2105s/output/github-contribution-grid-snake-dark.svg">
 	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A2105s/A2105s/output/github-contribution-grid-snake.svg">
-	<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/A2105s/A2105s/output/github-contribution-grid-snake.svg">
+	<img width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/A2105s/A2105s/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-	<img width="800" src="https://raw.githubusercontent.com/A2105s/A2105s/main/github-metrics.svg" alt="Metrics" />
-</div>
+<p align="center">
+	<img width="100%" src="https://raw.githubusercontent.com/A2105s/A2105s/main/github-metrics.svg" alt="Metrics" />
+</p>
 
-![Metrics2](https://raw.githubusercontent.com/A2105s/A2105s/main/metrics-achievements.svg)
+<p align="center">
+	<img width="100%" src="https://raw.githubusercontent.com/A2105s/A2105s/main/metrics-achievements.svg" alt="Metrics Achievements" />
+</p>
