@@ -36,7 +36,7 @@
 ## GITHUB STATS
 
 <p align="center">
-	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=A2105s&hide_border=true" alt="GitHub Streak Stats" />
+	<img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=A2105s&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <picture>
