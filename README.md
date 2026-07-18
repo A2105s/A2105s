@@ -36,20 +36,19 @@
 ## GITHUB STATS
 
 <p align="center">
-	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=A2105s&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" />
-	<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=A2105s&hide_border=true" alt="GitHub Streak Stats" />
+	<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=A2105s&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A2105s/A2105s/output/github-contribution-grid-snake-dark.svg">
 	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A2105s/A2105s/output/github-contribution-grid-snake.svg">
-	<img width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/A2105s/A2105s/output/github-contribution-grid-snake.svg">
+	<img width="92%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/A2105s/A2105s/output/github-contribution-grid-snake.svg">
 </picture>
 
 <p align="center">
-	<img width="82%" src="https://raw.githubusercontent.com/A2105s/A2105s/main/github-metrics.svg" alt="Metrics" />
+	<img width="76%" src="https://raw.githubusercontent.com/A2105s/A2105s/main/github-metrics.svg" alt="Metrics" />
 </p>
 
 <p align="center">
-	<img width="72%" src="https://raw.githubusercontent.com/A2105s/A2105s/main/metrics-achievements.svg" alt="Metrics Achievements" />
+	<img width="76%" src="https://github-profile-trophy.vercel.app/?username=A2105s&theme=onestar&no-frame=true&row=1&column=6" alt="GitHub Achievements" />
 </p>
